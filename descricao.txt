@@ -1,3 +1,0 @@
----   ESTUDANDO ESSA FERRAMENTA DE TESTES 
-
-voltar a estudar aqui: https://k6.io/docs/examples/tutorials/get-started-with-k6/test-for-performance/
